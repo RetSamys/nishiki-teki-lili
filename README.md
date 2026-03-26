@@ -10,7 +10,7 @@ Nishiki-teki-lili is a version of Nishiki-teki by jan Umijotalu (umihotaru) that
   * Same goes for silapa, but be aware that it stretches upwards instead of sidewards. You'll have to add preceding lines if you want to see all of it
   * Anything inside of `{` and `}` will be part of a reverse long extension of a character (with an underline), for example `{a a a}kama` [TO DO: list which ones have a reverse long extension]
 * You can combine glyphs with `&` (zero width joiner), `-` (stacking joiner), `+` (scaling joiner)
-  * Stacks are virtually infinite. Go wild. Make a soweli tower.
+  * Stacks are virtually infinite. Go wild. Make a soweli tower: `soweli-soweli-soweli-soweli-soweli-soweli-soweli-soweli`
 * cartouches:
   * `[` opens a cartouche and `]` ends it
   *  `=` turns into a cartouche extension line if you need to add one manually
