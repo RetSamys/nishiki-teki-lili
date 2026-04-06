@@ -17,6 +17,7 @@ Nishiki-teki-lili is a version of Nishiki-teki by jan Umijotalu (umihotaru) that
   * `.` turns into a cartouche middot and `:` turns into a cartouch colon
   * `,` (or multiple) adds tally marks
   * `°` turns into゜ and `"` turns into ゛
+  * Do you want small cartouches? Maybe so you can still have a pi underline? Use `zz-[` instead of `[`
 * some punctuation:
   *  `;` turns into sideway emitters
   * `*` turns into upwards emitters
