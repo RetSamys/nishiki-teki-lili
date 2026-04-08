@@ -6,7 +6,9 @@ Nishiki-teki-lili is a version of Nishiki-teki by jan Umijotalu (umihotaru) that
 
 * You can escape any character by preceding it with a backslash. `a` will turn into &#xF1954;/the sitelen pona character for "a", but `\a` will allow you to use the Latin letter instead of the sitelen pona character.
 * `zz`,`?`,`- `(hyphen space),`!`,`  `(space space),`|` will turn into an ideographic space. `/` will turn into a regular space
-* Wiiiiiide characters include tasun, soweli, kijetesantakalu and wasoweli. Type the first vowel of the word several times instead of once, for example `taaaaaasun` instead of `tasun`
+* Extended glyphs
+  * Some characters allow you to join with an extended underline, such as "pi", "a" and "tawa" with `(` and `)`. For example, use `a(mu mu mu)`. Additionally, for "pi" specifically, you can use `pi+` to have an underline higher up, for example `ijo pi(a a pi+mu mu mu) a a) ijo` has "ijo" regular-sized without underlines, "a" have a underline with the regular extended "pi", and "mu" are smaller and have 2 underlines due to the second mu also being extended.
+  * Wiiiiiide characters include tasun, soweli, kijetesantakalu and wasoweli. Type the first vowel of the word several times instead of once, for example `taaaaaasun` instead of `tasun`
   * Same goes for silapa, but be aware that it stretches upwards instead of sidewards. You'll have to add preceding lines if you want to see all of it
   * Anything inside of `{` and `}` will be part of a reverse long extension of a character (with an underline), for example `{a a a}kama` [TO DO: list which ones have a reverse long extension]
 * You can combine glyphs with `&` (zero width joiner), `-` (stacking joiner), `+` (scaling joiner)
