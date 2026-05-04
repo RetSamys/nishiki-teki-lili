@@ -1,3 +1,7 @@
+# Credit
+
+Note that while I originally made some changes to Nishiki-teki to create Nishiki-teki-lili, nowadays the lili version is maintained by Umihotaru, not me! I will try to keep the font updated here, since I made a repo for it, but the changes are all from jan Umijotalu.
+
 For the original font, go to the website or go to the PDF directly to see what options are available for sitelen pona in the UCSUR codepoints only version: https://umihotaru.work/nishiki_sitelen.pdf 
 
 # ASCII input (ligatures)
